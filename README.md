@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Victron Energy (VRM) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://victronenergy.com/
+Victron Energy designs and manufactures power conversion and storage solutions for off‑grid, marine, recreational, and professional applications. Their product range includes inverters, battery monitors, solar chargers, and remote monitoring platforms, enabling reliable energy systems worldwide. The company also offers the VRM portal for system monitoring and management, supporting a broad ecosystem of renewable energy installations.
+
+**Areas:** Company · Energy · Renewable · Off-grid · Monitoring
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://victronenergy.com/)
+- [Documentation](https://www.victronenergy.com/support-and-downloads/software)
+- [Getting started](https://www.victronenergy.com/this-is-victron)
+- [API reference](https://vrm-api-docs.victronenergy.com/)
+- [Support](https://www.victronenergy.com/support)
+- [Blog](https://www.victronenergy.com/blog)
+- [Terms of service](https://www.victronenergy.com/p/legal-notice)
+- [Privacy policy](https://www.victronenergy.com/privacy-policy)
+- [GitHub](https://github.com/victronenergy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/victron-energy/](https://apis.io/providers/victron-energy/).
